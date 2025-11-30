@@ -97,7 +97,7 @@ int main() {
     // Sort the array by ISBN before user interaction
     Book::sortBookData(library, NUM_BOOKS);
 
-    cout << "Welcome to the Community Library\n";
+    cout << "Welcome to the Community Library System\n";
     cout << "Enter ISBN to borrow a book (or 0 to exit)\n\n";
 
     string requestedIsbn;

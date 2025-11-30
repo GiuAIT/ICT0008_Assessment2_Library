@@ -132,6 +132,6 @@ int main() {
         }
     }
 
-    cout << "Thank you for using the library system.\n";
+    cout << "Thank you for using the Community Library System.\n";
     return 0;
 }

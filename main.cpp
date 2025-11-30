@@ -1,3 +1,4 @@
+// ICT0008 - Assessment 2 - Library application
 #include <iostream>
 #include <string>
 
